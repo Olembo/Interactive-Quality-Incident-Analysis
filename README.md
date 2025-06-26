@@ -5,15 +5,6 @@ Overview
 
 A comprehensive Excel-based analysis and interactive dashboard of quality incidents, covering December 2023 through June 2025 and 45,000+ records. This project identifies key drivers of quality issues, visualizes trends over time, and delivers actionable recommendations for process improvement.
 
-## Project Structure
-quality-incident-analysis/
-
-├── README.md
-├── Quality_Incidents_Dashboard.xlsx
-├── Dashboard_Snapshot.pdf
-├── Quality_Incident_Report.pdf
-└── Data/
-    └── quality_incidents_cleaned.csv
 
 ## Key Components
 1. **Executive Summary**

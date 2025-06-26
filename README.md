@@ -7,12 +7,12 @@ A comprehensive Excel-based analysis and interactive dashboard of quality incide
 
 ## Project Structure
 quality-incident-analysis/
-├── README.md                         # This file
-├── Quality_Incidents_Dashboard.xlsx  # Final interactive Excel workbook
-├── Dashboard_Snapshot.pdf            # Exported PDF of the dashboard
-├── Quality_Incident_Report.pdf       # Written report document summarizing findings and recommendations
+├── README.md
+├── Quality_Incidents_Dashboard.xlsx
+├── Dashboard_Snapshot.pdf
+├── Quality_Incident_Report.pdf
 └── Data/
-    └── quality_incidents_cleaned.csv # Cleaned incident dataset (45k+ rows)
+    └── quality_incidents_cleaned.csv
 
 ## Key Components
 1. **Executive Summary**

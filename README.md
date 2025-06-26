@@ -10,11 +10,8 @@ quality-incident-analysis/
 
 ├── README.md
 ├── Quality_Incidents_Dashboard.xlsx
-
 ├── Dashboard_Snapshot.pdf
-
 ├── Quality_Incident_Report.pdf
-
 └── Data/
     └── quality_incidents_cleaned.csv
 

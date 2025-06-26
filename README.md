@@ -9,7 +9,6 @@ A comprehensive Excel-based analysis and interactive dashboard of quality incide
 quality-incident-analysis/
 
 ├── README.md
-
 ├── Quality_Incidents_Dashboard.xlsx
 
 ├── Dashboard_Snapshot.pdf
@@ -17,7 +16,6 @@ quality-incident-analysis/
 ├── Quality_Incident_Report.pdf
 
 └── Data/
-
     └── quality_incidents_cleaned.csv
 
 ## Key Components

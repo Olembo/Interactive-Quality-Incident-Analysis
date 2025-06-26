@@ -49,4 +49,4 @@ quality-incident-analysis/
 
 ---
 
-*For any questions or feedback, please contact [Your Name](mailto:youremail@example.com).*
+*For any questions or feedback, please contact [Devin Richmond](richmonddevin13@gmail.com).*
